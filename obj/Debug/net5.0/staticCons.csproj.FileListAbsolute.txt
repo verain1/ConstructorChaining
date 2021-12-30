@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\C-sharp\staticCons\bin\Debug\net5.0\staticCons.exe
+C:\Users\Acer\Desktop\C-sharp\staticCons\bin\Debug\net5.0\staticCons.deps.json
+C:\Users\Acer\Desktop\C-sharp\staticCons\bin\Debug\net5.0\staticCons.runtimeconfig.json
+C:\Users\Acer\Desktop\C-sharp\staticCons\bin\Debug\net5.0\staticCons.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\C-sharp\staticCons\bin\Debug\net5.0\staticCons.dll
+C:\Users\Acer\Desktop\C-sharp\staticCons\bin\Debug\net5.0\ref\staticCons.dll
+C:\Users\Acer\Desktop\C-sharp\staticCons\bin\Debug\net5.0\staticCons.pdb
+C:\Users\Acer\Desktop\C-sharp\staticCons\obj\Debug\net5.0\staticCons.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\C-sharp\staticCons\obj\Debug\net5.0\staticCons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\C-sharp\staticCons\obj\Debug\net5.0\staticCons.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\C-sharp\staticCons\obj\Debug\net5.0\staticCons.AssemblyInfo.cs
+C:\Users\Acer\Desktop\C-sharp\staticCons\obj\Debug\net5.0\staticCons.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\C-sharp\staticCons\obj\Debug\net5.0\staticCons.dll
+C:\Users\Acer\Desktop\C-sharp\staticCons\obj\Debug\net5.0\ref\staticCons.dll
+C:\Users\Acer\Desktop\C-sharp\staticCons\obj\Debug\net5.0\staticCons.pdb
+C:\Users\Acer\Desktop\C-sharp\staticCons\obj\Debug\net5.0\staticCons.genruntimeconfig.cache
